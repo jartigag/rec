@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xml:lang="es" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <atom:link href="https://javier.artiga.es/rec/" rel="self" type="application/rss+xml" />
         <title>demo1</title>
-        <description></description>
+        <description>demo1</description>
         <link>https://javier.artiga.es/rec/</link>
         <item>
             <guid>https://javier.artiga.es/rec/20240925-demo1-jartigag-lalayu.mp3</guid>
@@ -14,6 +14,9 @@
             <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
             <enclosure url="https://javier.artiga.es/rec/20240925-demo1-jartigag-lalayu.mp3" type="audio/mpeg" length="3254549"/>
             <itunes:duration>146</itunes:duration>
+            <itunes:author>jartigag</itunes:author>
+    	    <itunes:image href="https://javier.artiga.es/favicon.ico"/>
+            <language>es</language>
         </item>
         <item>
             <guid>https://javier.artiga.es/rec/20241015-demo1-jartigag-planeta_cama.mp3</guid>
@@ -24,6 +27,9 @@
             <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
             <enclosure url="https://javier.artiga.es/rec/20241015-demo1-jartigag-planeta_cama.mp3" type="audio/mpeg" length="2875229"/>
             <itunes:duration>206</itunes:duration>
+            <itunes:author>jartigag</itunes:author>
+    	    <itunes:image href="https://javier.artiga.es/favicon.ico"/>
+            <language>es</language>
         </item>
         <item>
             <guid>https://javier.artiga.es/rec/20250109-demo1-jparra-decir_que_me_quieres.mp3</guid>
@@ -34,6 +40,9 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
             <enclosure url="https://javier.artiga.es/rec/20250109-demo1-jparra-decir_que_me_quieres.mp3" type="audio/mpeg" length="2879581"/>
             <itunes:duration>149</itunes:duration>
+            <itunes:author>jparra</itunes:author>
+    	    <itunes:image href="https://javier.artiga.es/favicon.ico"/>
+            <language>es</language>
         </item>
         <item>
             <guid>https://javier.artiga.es/rec/20250109-demo1-jparra-el_baile.mp3</guid>
@@ -44,6 +53,9 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
             <enclosure url="https://javier.artiga.es/rec/20250109-demo1-jparra-el_baile.mp3" type="audio/mpeg" length="1920702"/>
             <itunes:duration>120</itunes:duration>
+            <itunes:author>jparra</itunes:author>
+    	    <itunes:image href="https://javier.artiga.es/favicon.ico"/>
+            <language>es</language>
         </item>
         <item>
             <guid>https://javier.artiga.es/rec/rss.xml</guid>
