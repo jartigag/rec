@@ -55,10 +55,114 @@
             <language>es-ES</language>
         </item>
         <item>
-            <link>https://javier.artiga.es/rec/rss.xml</link>
-            <title>rss</title>
-            <description>rss</description>
-            <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+            <guid>https://javier.artiga.es/rec/v01-sexy_zebras-nena_en_a.mp3</guid>
+            <link>https://javier.artiga.es/rec/v01-sexy_zebras-nena_en_a.mp3</link>
+            <title>v01-sexy_zebras-nena_en_a</title>
+            <description>v01-sexy_zebras-nena_en_a</description>
+            <itunes:summary>v01-sexy_zebras-nena_en_a</itunes:summary>
+            <pubDate>Sat, 04 Jan 2025 19:07:00 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v01-sexy_zebras-nena_en_a.mp3" type="audio/mpeg" length="4892895"/>
+            <itunes:duration>212</itunes:duration>
+        </item>
+        <item>
+            <guid>https://javier.artiga.es/rec/v02-los_zigarros-disparame.mp3</guid>
+            <link>https://javier.artiga.es/rec/v02-los_zigarros-disparame.mp3</link>
+            <title>v02-los_zigarros-disparame</title>
+            <description>v02-los_zigarros-disparame</description>
+            <itunes:summary>v02-los_zigarros-disparame</itunes:summary>
+            <pubDate>Fri, 03 Jan 2025 19:06:59 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v02-los_zigarros-disparame.mp3" type="audio/mpeg" length="3983712"/>
+            <itunes:duration>241</itunes:duration>
+        </item>
+        <item>
+            <guid>https://javier.artiga.es/rec/v03-pereza-yo_naci_para_estar_en_un_conjunto.mp3</guid>
+            <link>https://javier.artiga.es/rec/v03-pereza-yo_naci_para_estar_en_un_conjunto.mp3</link>
+            <title>v03-pereza-yo_naci_para_estar_en_un_conjunto</title>
+            <description>v03-pereza-yo_naci_para_estar_en_un_conjunto</description>
+            <itunes:summary>v03-pereza-yo_naci_para_estar_en_un_conjunto</itunes:summary>
+            <pubDate>Thu, 02 Jan 2025 19:07:03 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v03-pereza-yo_naci_para_estar_en_un_conjunto.mp3" type="audio/mpeg" length="4059856"/>
+            <itunes:duration>248</itunes:duration>
+        </item>
+        <item>
+            <guid>https://javier.artiga.es/rec/v04-nina_polaca-dolores_rayo.mp3</guid>
+            <link>https://javier.artiga.es/rec/v04-nina_polaca-dolores_rayo.mp3</link>
+            <title>v04-nina_polaca-dolores_rayo</title>
+            <description>v04-nina_polaca-dolores_rayo</description>
+            <itunes:summary>v04-nina_polaca-dolores_rayo</itunes:summary>
+            <pubDate>Wed, 01 Jan 2025 19:07:02 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v04-nina_polaca-dolores_rayo.mp3" type="audio/mpeg" length="3579799"/>
+            <itunes:duration>207</itunes:duration>
+        </item>
+        <item>
+            <guid>https://javier.artiga.es/rec/v05-la_paloma-quejas_clebres.mp3</guid>
+            <link>https://javier.artiga.es/rec/v05-la_paloma-quejas_clebres.mp3</link>
+            <title>v05-la_paloma-quejas_clebres</title>
+            <description>v05-la_paloma-quejas_clebres</description>
+            <itunes:summary>v05-la_paloma-quejas_clebres</itunes:summary>
+            <pubDate>Tue, 31 Dec 2024 19:07:05 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v05-la_paloma-quejas_clebres.mp3" type="audio/mpeg" length="4106055"/>
+            <itunes:duration>251</itunes:duration>
+        </item>
+        <item>
+            <guid>https://javier.artiga.es/rec/v06-fito_y_fitipaldis-rojitas_las_orejas.mp3</guid>
+            <link>https://javier.artiga.es/rec/v06-fito_y_fitipaldis-rojitas_las_orejas.mp3</link>
+            <title>v06-fito_y_fitipaldis-rojitas_las_orejas</title>
+            <description>v06-fito_y_fitipaldis-rojitas_las_orejas</description>
+            <itunes:summary>v06-fito_y_fitipaldis-rojitas_las_orejas</itunes:summary>
+            <pubDate>Mon, 30 Dec 2024 19:06:55 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v06-fito_y_fitipaldis-rojitas_las_orejas.mp3" type="audio/mpeg" length="3719654"/>
+            <itunes:duration>224</itunes:duration>
+        </item>
+        <item>
+            <guid>https://javier.artiga.es/rec/v07-zenttric-solo_quiero_bailar_en_a.mp3</guid>
+            <link>https://javier.artiga.es/rec/v07-zenttric-solo_quiero_bailar_en_a.mp3</link>
+            <title>v07-zenttric-solo_quiero_bailar_en_a</title>
+            <description>v07-zenttric-solo_quiero_bailar_en_a</description>
+            <itunes:summary>v07-zenttric-solo_quiero_bailar_en_a</itunes:summary>
+            <pubDate>Sun, 29 Dec 2024 19:07:02 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v07-zenttric-solo_quiero_bailar_en_a.mp3" type="audio/mpeg" length="4169100"/>
+            <itunes:duration>184</itunes:duration>
+        </item>
+        <item>
+            <guid>https://javier.artiga.es/rec/v08-los_zigarros-dentro_de_la_ley.mp3</guid>
+            <link>https://javier.artiga.es/rec/v08-los_zigarros-dentro_de_la_ley.mp3</link>
+            <title>v08-los_zigarros-dentro_de_la_ley</title>
+            <description>v08-los_zigarros-dentro_de_la_ley</description>
+            <itunes:summary>v08-los_zigarros-dentro_de_la_ley</itunes:summary>
+            <pubDate>Sat, 28 Dec 2024 19:07:01 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v08-los_zigarros-dentro_de_la_ley.mp3" type="audio/mpeg" length="2855489"/>
+            <itunes:duration>169</itunes:duration>
+        </item>
+        <item>
+            <guid>https://javier.artiga.es/rec/v09-pereza-lady_madrid_en_f.mp3</guid>
+            <link>https://javier.artiga.es/rec/v09-pereza-lady_madrid_en_f.mp3</link>
+            <title>v09-pereza-lady_madrid_en_f</title>
+            <description>v09-pereza-lady_madrid_en_f</description>
+            <itunes:summary>v09-pereza-lady_madrid_en_f</itunes:summary>
+            <pubDate>Fri, 27 Dec 2024 19:07:01 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v09-pereza-lady_madrid_en_f.mp3" type="audio/mpeg" length="4425927"/>
+            <itunes:duration>192</itunes:duration>
+        </item>
+        <item>
+            <guid>https://javier.artiga.es/rec/v10-loquillo_y_los_trogloditas-el_rompeolas.mp3</guid>
+            <link>https://javier.artiga.es/rec/v10-loquillo_y_los_trogloditas-el_rompeolas.mp3</link>
+            <title>v10-loquillo_y_los_trogloditas-el_rompeolas</title>
+            <description>v10-loquillo_y_los_trogloditas-el_rompeolas</description>
+            <itunes:summary>v10-loquillo_y_los_trogloditas-el_rompeolas</itunes:summary>
+            <pubDate>Thu, 26 Dec 2024 19:07:03 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v10-loquillo_y_los_trogloditas-el_rompeolas.mp3" type="audio/mpeg" length="4723191"/>
+            <itunes:duration>288</itunes:duration>
+        </item>
+        <item>
+            <guid>https://javier.artiga.es/rec/v11-fito_y_fitipaldis-por_la_boca_vive_el_pez.mp3</guid>
+            <link>https://javier.artiga.es/rec/v11-fito_y_fitipaldis-por_la_boca_vive_el_pez.mp3</link>
+            <title>v11-fito_y_fitipaldis-por_la_boca_vive_el_pez</title>
+            <description>v11-fito_y_fitipaldis-por_la_boca_vive_el_pez</description>
+            <itunes:summary>v11-fito_y_fitipaldis-por_la_boca_vive_el_pez</itunes:summary>
+            <pubDate>Wed, 25 Dec 2024 19:06:55 +0000</pubDate>
+            <enclosure url="https://javier.artiga.es/rec/v11-fito_y_fitipaldis-por_la_boca_vive_el_pez.mp3" type="audio/mpeg" length="4417684"/>
+            <itunes:duration>269</itunes:duration>
         </item>
     </channel>
 </rss>
